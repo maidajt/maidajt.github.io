@@ -1,0 +1,22 @@
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: crimson;
+}
+h1{
+font-style: italic;
+}
+h3{
+    text-decoration: underline;
+    font-style: oblique;
+    background-color: indianred;
+}
+.bloque{
+    display: inline-block;
+    margin-right: 5%;
+    width: 40%;
+}
+.caja{
+    display: inline-block;
+    margin-right: 5%;
+    width: 40%;
+}
